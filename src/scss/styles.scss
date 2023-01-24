@@ -1,5 +1,6 @@
 @use 'base/normalize.scss';
 @use 'base/initial-reset.scss';
 @use 'config/variables.scss';
-@use 'config/fonts.scss';
+@use 'mixins/fonts.scss';
 @use 'blocks/body.scss';
+@use 'blocks/main.scss';
